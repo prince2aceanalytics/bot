@@ -1,0 +1,24 @@
+welcome_message: |
+  Hi, Good Morning!
+  Welcome to Ace Analytics, your solution for all technology needs for your brand.
+  My name is Ace Bot and I'm your personal digital assistant. I am here to help you with any question you have about our products and services. I'm continuously learning to serve you better, so please be patient with me...
+  Say menu to see what all I can do for you?
+menu: |
+  Please enter the option number from the below option(s):
+  A. Services
+  B. Our Clients
+  C. Case Studies
+  D. Send Enquiry
+  E. Get your website report
+  F. Subscribe to our blog
+
+A.: |
+  The list of services which are offered by us are crowdsourcing, Financial investment etc.
+  
+B.: |
+  Clients include Google Facebook Amazon
+  
+C.: |
+  Various case studies are done regarding that tenure
+
+  

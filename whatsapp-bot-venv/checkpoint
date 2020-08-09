@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\prince\\whatsapp-bot\\whatsapp-bot-venv\\model.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\prince\\whatsapp-bot\\whatsapp-bot-venv\\model.tflearn"
